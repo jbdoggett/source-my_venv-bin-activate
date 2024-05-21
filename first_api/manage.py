@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 """Django's command-line utility for administrative tasks."""
+# Copied from building-your-first-api-with-django-and-django-rest-framework/first_api in
+# git@github.com:lipemorais/building-your-first-api-with-django-and-django-rest-framework.git
+# commit fec49b0f3ee493cae7cb85bd0ab882f829244c1e.
 import os
 import sys
 
